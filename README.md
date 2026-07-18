@@ -1,8 +1,8 @@
-# Hi, I'm Dimitris Lillis 👋
+# Hi, I'm Dimitris Lillis 
 
-🎓 Final-year **Electrical & Computer Engineering** student at Democritus University of Thrace (DUTH), Greece  
-🔬 Diploma Thesis: **Melanoma detection from dermoscopy images** using Deep Learning (CNNs on HAM10000)  
-💡 Passionate about **Computer Vision**, **Machine Learning** and applied AI  
+- Final-year **Electrical & Computer Engineering** student at Democritus University of Thrace (DUTH), Greece  
+- Diploma Thesis: **Melanoma detection from dermoscopy images** using Deep Learning (CNNs on HAM10000)  
+- Passionate about **Computer Vision**, **Machine Learning** and applied AI  
 
 ---
 
