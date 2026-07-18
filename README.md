@@ -29,5 +29,5 @@
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DimitrisLillis-blue?logo=linkedin)](https://www.linkedin.com/in/dimitris-lillis-762201330)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DimitrisLillis-blue?logo=linkedin)](https://www.linkedin.com/in/dimitris-lillis)  
 📧 dimilill@ee.duth.gr
