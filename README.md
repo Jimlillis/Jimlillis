@@ -19,7 +19,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔬 Melanoma-Thesis *(private — in progress)* | Skin lesion classification using HAM10000 dataset | Python · PyTorch · CNNs |
+| 🔬 Melanoma-Thesis | Skin lesion classification using HAM10000 dataset | Python · PyTorch · CNNs |
 | 💬 [Automotive Chatbot](https://github.com/Jimlillis/Automotive-Manual.Severity-decision-Chatbot) | LLM-powered chatbot on car manuals | Python · LLM |
 | 💰 [NBG Smart App](https://github.com/Jimlillis/NBG-Smart-App-Children) | Financial literacy app for teenagers — NBG Hackathon | TypeScript · FastAPI |
 | 🚕 [Taxi RL Agent](https://github.com/Jimlillis/taxi-rl-dqn-2025) | Reinforcement Learning agent (DQN) in grid world | Python · DQN |
