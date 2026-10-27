@@ -1,8 +1,8 @@
 # Hello, I'm Dimitris Lillis 
 
 - Final-year **Electrical & Computer Engineering** student at Democritus University of Thrace (DUTH), Greece  
-- Diploma Thesis: **Melanoma detection from dermoscopy images** using Deep Learning (CNNs on HAM10000)  
-- Passionate about **Computer Vision**, **Machine Learning** and applied AI  
+- Diploma Thesis: **Melanoma detection from dermoscopy images** using Deep Learning (CNNs & ViTs on HAM10000)  
+- Passionate about **Machine Learning**, **Computer Vision** and applied AI  
 
 ---
 
@@ -19,7 +19,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔬 Melanoma-Thesis | Skin lesion classification using HAM10000 dataset | Python · PyTorch · CNNs |
+| 🔬 [Melanoma Detection HAM10000](https://github.com/Jimlillis/Melanoma-Detection-HAM10000) | Skin lesion classification using HAM10000 dataset | Python · PyTorch · CNNs |
 | 💬 [Automotive Chatbot](https://github.com/Jimlillis/Automotive-Manual.Severity-decision-Chatbot) | LLM-powered chatbot on car manuals | Python · LLM |
 | 💰 [NBG Smart App](https://github.com/Jimlillis/NBG-Smart-App-Children) | Financial literacy app for teenagers — NBG Hackathon | TypeScript · FastAPI |
 | 🚕 [Taxi RL Agent](https://github.com/Jimlillis/taxi-rl-dqn-2025) | Reinforcement Learning agent (DQN) in grid world | Python · DQN |
